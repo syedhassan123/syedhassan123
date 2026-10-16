@@ -58,7 +58,7 @@ I'm a Web Developer based in **Karachi, Pakistan**, building scalable frontend a
 
 | Role | Company |
 |------|---------|
-| 🟢 **Web Developer** | FluxxVentures SMC (Pvt.) Ltd. 
+| 🟢 **Web Developer** | Sleekhive (Pvt.) Ltd. 
 | 🔵 **Frontend Developer** | Shiwantek 
 | 🟣 **React Developer Intern** | Immersive Tech Lab 
 
