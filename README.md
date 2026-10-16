@@ -21,7 +21,7 @@ I'm a Web Developer based in **Karachi, Pakistan**, building scalable frontend a
 
 | | |
 |---|---|
-| 💼 **Working at** | FluxxVentures SMC (Pvt.) Ltd. |
+| 💼 **Working at** | Sleekhive (Pvt.) Ltd. |
 | 🌱 **Currently learning** | TypeScript & advanced Next.js |
 | 🤝 **Open to** | Collaborating on web projects |
 | 📍 **Based in** | Karachi, Pakistan |
